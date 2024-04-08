@@ -4,10 +4,10 @@
     background-color: white;
 }
 .Page-Title { 
-    color: coral;
+    color: black;
 }
 
-h1 {color: coral
+h1 {color: black
 }
 *{
     margin: 0;
@@ -29,11 +29,4 @@ h1 {color: coral
     border-radius: 8px;
     margin:10px;
     overflow: hidden;
- }
-
- .card-image{
-    Background: white
-    height 170px;
-    margin-bottom: 15px
-    background-size; cover
  }
