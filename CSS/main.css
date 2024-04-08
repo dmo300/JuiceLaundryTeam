@@ -10,12 +10,12 @@
 h1 {color: coral
 }
 *{
-    margin: 0px;
-    padding:0px;
+    margin: 0;
+    padding:0;
     box-sizing: border-box;
     font-family:Gill Sans MT
 }
-.card-container{
+.container{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -23,8 +23,17 @@ h1 {color: coral
 
 }
  .card{
-    width: 325px;
-    background-color: coral;
+    width: 270px;
+    height: 400px;
+    background-color: white;
     border-radius: 8px;
+    margin:10px;
     overflow: hidden;
+ }
+
+ .card-image{
+    Background: white
+    height 170px;
+    margin-bottom: 15px
+    background-size; cover
  }
