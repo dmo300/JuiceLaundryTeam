@@ -9,6 +9,22 @@
 
 h1 {color: coral
 }
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+    font-family:Gill Sans MT
+}
+.card-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 100px;
 
-
- 
+}
+ .card{
+    width: 325px;
+    background-color: coral;
+    border-radius: 8px;
+    overflow: hidden;
+ }
